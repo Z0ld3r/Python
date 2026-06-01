@@ -1,1 +1,1 @@
-Python első beadandó, Rest API készítés Fast API alapon.
+Python assignment, Fast API based Rest API.
